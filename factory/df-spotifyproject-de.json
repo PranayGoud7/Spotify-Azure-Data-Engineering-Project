@@ -1,0 +1,15 @@
+{
+	"name": "df-spotifyproject-de",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cdc81cb8-e247-4b74-b511-ff692cbd7020",
+		"tenantId": "762abe08-adf7-4b50-9091-b7020052f4bb"
+	}
+}
